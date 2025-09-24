@@ -4,7 +4,7 @@ require  'ClassAutoLoad.php';
 
 $mailCnt = [
     'name_from' => 'Alex Mundama',
-    'mail_from' => 'BMundama@strathmore.edu',
+    'mail_from' => 'kiprop.ralph@strathmore.edu',
     'name_to' => 'Mazziq Studios',
     'mail_to' => 'mazziqstudios@gmail.com',
     'subject' => 'Welcome to ICS Academy',
